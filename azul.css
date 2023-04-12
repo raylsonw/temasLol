@@ -48,21 +48,21 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     width: 1280px;
     height: 720px;
     position: relative;
-    border-right: 2px solid #9100ff!important;
-    border-left: 2px solid #9100ff!important;
-    border-bottom: 2px solid #9100ff!important;
-    border-top: 2px solid #9100ff!important;
+    border-right: 2px solid #00b7ff!important;
+    border-left: 2px solid #00b7ff!important;
+    border-bottom: 2px solid #00b7ff!important;
+    border-top: 2px solid #00b7ff!important;
     box-sizing: border-box;
     overflow: hidden;
     background: #000;
-    filter: drop-shadow(1px 1px 10px #9100ff) !important; 
+    filter: drop-shadow(1px 1px 10px #00b7ff) !important; 
 }
 
 #rcp-fe-viewport-root #rcp-fe-lol-navigation-app {
     pointer-events: none;
     position: relative;
     z-index: 10;
-    background: #7a00ff24!important;
+    background: #0077ff24!important;
 }
 
 .lol-social-sidebar {
@@ -76,7 +76,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     cursor: default;
     -webkit-user-drag: none;
     -webkit-user-select: none;
-    background: linear-gradient(#3f2375, #c100d81a 18%)!important;
+    background: linear-gradient(#234d75, #005ed81a 18%)!important;
 }
 
 .section, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section {
@@ -103,17 +103,17 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     left: 0;
     top: 20px;
     margin: 0;
-    background: linear-gradient(to left, transparent, #9e6dff, transparent)!important;
+    background: linear-gradient(to left, transparent, #6dd6ff, transparent)!important;
 }
 
 .section.active, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section.active {
     color: #846bff;
-    text-shadow: 0px 0px 21px #8500ff!important;
+    text-shadow: 0px 0px 21px #00aeff!important;
     /* opacity: 1; */
 }
 
  .section.active {
-    background-image: linear-gradient(0deg, rgba(157, 84, 255, 0.3) 0%, rgba(34, 0, 66, 0.19) 55%)!important;
+    background-image: linear-gradient(0deg, rgba(84, 158, 255, 0.3) 0%, rgba(0, 31, 66, 0.19) 55%)!important;
 }
 
 .section.active, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section.active {
@@ -148,7 +148,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 }
 
 lol-uikit-full-page-backdrop {
-    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(39, 0, 74, 0.8) 93%)!important;
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 35, 74, 0.8) 93%)!important;
     position: absolute;
     left: 0;
     right: 0;
@@ -186,13 +186,13 @@ lol-uikit-full-page-backdrop {
     height: 100%;
     pointer-events: none;
     -webkit-user-select: none;
-    box-shadow: inset 0px 0px 40px rgba(157, 0, 255, 0.23);
+    box-shadow: inset 0px 0px 40px rgba(0, 132, 255, 0.23);
 }
 
 .availability-icon{
-    background-color: #6523CF !important;
-    border-color: #7D5FFF !important;
-    filter: drop-shadow(0px 0px 4px #7C2BFF);
+    background-color: #2382cf !important;
+    border-color: #5fa4ff !important;
+    filter: drop-shadow(0px 0px 4px #2baaff);
     border-radius: 10px;
 }
 
@@ -201,24 +201,24 @@ lol-uikit-full-page-backdrop {
 }
 
 .availability-icon.away{
-    background-color: #321167 !important;
-    border-color: #5C20BD !important;
+    background-color: #115a67 !important;
+    border-color: #204abd !important;
 }
 
 .status-message.offline{
-  color: #3D157D !important;
+  color: #15467d !important;
 }
 
 .status-message-wrapper{
-  color: #AB4AFF !important;
+  color: #15467d !important;
 }
 
 .status-message.chat{
-  color: #AB4AFF !important;
+  color: #15467d !important;
 }
 
 .status-message.game-status.chat{
-  color: #873AC9 !important;
+  color: #3a48c9 !important;
 }
 
 
@@ -237,14 +237,14 @@ lol-uikit-full-page-backdrop {
   background-image: none !important; /*url('http://mmmx22.ct8.pl/play-button-violet.png') !important;*/
   background: linear-gradient(-90deg, #382B7A, #241666) !important;
   border-radius: 50px !important;
-  border: 2px solid #9100FF!important;
-  filter: drop-shadow(1px 1px 8px #9100FF) !important;
+  border: 2px solid #00b7ff!important;
+  filter: drop-shadow(1px 1px 8px #00b7ff) !important;
   transition: 0.2s !important;
   cursor: pointer;
 }
 
 .play-button-container:hover{
-  filter: drop-shadow(1px 1px 15px #9100FF) !important;
+  filter: drop-shadow(1px 1px 15px #00b7ff) !important;
   transition: 0.2s !important;
 }
 
