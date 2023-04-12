@@ -328,23 +328,23 @@ lol-uikit-full-page-backdrop {
 }
 
 lol-social-roster-member .open-party .open-party-indicator{
-  background: #AB4AFF !important;
+  background: #70aeff !important;
 }
 
 lol-social-roster-member .open-party-indicator{
-  background: #4E2275 !important;
+  background: #222375 !important;
 }
 
 .status-message.open-party.chat{
-  color: #AB4AFF !important;
+  color: #70aeff !important;
 }
 
 .filled.xp-ring{
-  background-color: #AB4AFF !important;
+  background-color: #70aeff !important;
 }
 
 lol-social-status .status-message.dnd{
-  color: #BE70FF !important;
+  color: #70aeff !important;
   font-weight: bold !important;
   text-transform: uppercase;
 }
@@ -469,7 +469,7 @@ lol-regalia-banner-v2-element{
   height: 100%;
   /* filter: hue-rotate(-150deg); */
   mix-blend-mode: hue;
-  background-color:rgb(101, 25, 224, 0.6);
+  background-color:rgba(25, 111, 224, 0.6);
   z-index: 1;
 }
 
