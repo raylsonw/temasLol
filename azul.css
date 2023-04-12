@@ -681,7 +681,7 @@ lol-uikit-tooltip-root{
 }
 
 .chat-header{
-  border-bottom: thin solid #6615c4 !important;
+  border-bottom: thin solid #154cc4 !important;
 }
 
 lol-social-chat-input .chat-input{
@@ -710,7 +710,7 @@ lol-social-chat-input .chat-input{
 }
 
 .heading{
-  border-bottom: thin solid #6615c4 !important;
+  border-bottom: thin solid #158dc4 !important;
 }
 
 .dialog-frame{
@@ -949,28 +949,28 @@ lol-social-availability-hitbox .availability-icon.open-party{
 }
 
 .loot-item-visual .shard-overlay{
-  background: #BB86FF !important;
+  background: #86edff !important;
 }
 
 .social-count-badge{
-  background-color: #BB86FF !important;
+  background-color: #86edff !important;
 }
 lol-social-friend-requests .friend-requests-header{
-  color: #BB86FF !important;
+  color: #86edff !important;
 }
 
 .chat-bubble .my-bubble{
-  background-color: #BB86FF !important;
+  background-color: #86edff !important;
 }
 
 lol-social-chat-window .conversation.unread .conversation-subtitle{
-  color: #BB86FF !important;
+  color: #86edff !important;
 }
 
 lol-social-chat-window .conversation.active::before{
-  background-color: #BB86FF !important;
+  background-color: #86edff !important;
 }
 
 lol-social-roster .more-unread .more-unread-bar{
-  background-color: #BB86FF !important;
+  background-color: #86edff !important;
 }
