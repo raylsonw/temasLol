@@ -821,7 +821,7 @@ lol-uikit-video-state-machine{
 }
 
 .currency-be-icon-container {
-    filter: hue-rotate(81deg);
+    filter: hue-rotate(179deg);
 }
 
 .currency-rp {
@@ -849,35 +849,35 @@ lol-uikit-video-state-machine{
 }
 
 .parties-player-positions lol-parties-player-position.primary{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .parties-player-positions lol-parties-player-position.secondary{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .parties-position-selector-hextech-dashed-ring{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .confirm-button-container button.confirm{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .parties-footer-notifications .parties-footer-warning{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 :host .regalia-parties-root[data-type="current-player"] .regalia-parties-banner-backdrop{
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .open-party-toggle-wrapper .toggle-container .open{
-  filter: hue-rotate(-220deg) !important;
+  filter: hue-rotate(-140deg) !important;
 }
 
 lol-social-panel{
-  filter: hue-rotate(-220deg) !important;
+  filter: hue-rotate(-140deg) !important;
 }
 
 .lol-social-identity .notifications-button{
@@ -885,7 +885,7 @@ lol-social-panel{
 }
 
 .placeholder-invited-container .placeholder-invited-image {
-  filter: hue-rotate(50deg) !important;
+  filter: hue-rotate(150deg) !important;
 }
 
 lol-social-availability-hitbox .availability-icon.open-party{
@@ -895,13 +895,13 @@ lol-social-availability-hitbox .availability-icon.open-party{
 
 .availability-icon.chat.remote{
   background-color: transparent !important;
-  filter: hue-rotate(-240deg) !important;
+  filter: hue-rotate(-179deg) !important;
 }
 
 .ready-check-state-machine-timer{
   animation-name: fadeIn;
   animation-duration: 1.5s;
-  filter: hue-rotate(-290deg) !important;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .ready-check-timer{
@@ -936,16 +936,16 @@ lol-social-availability-hitbox .availability-icon.open-party{
 }
 
 .mission-button .count-badge{
-  background-color: #BB86FF !important;
+  background-color: #86c8ff !important;
 }
 
 
 .in-matchmaking-search .parties-placeholder-banner{
-  filter: hue-rotate(60deg) !important;
+  filter: hue-rotate(179deg) !important;
 }
 
 .open-party-toggle-wrapper.right .toggle-button{
-  filter: hue-rotate(220deg) !important;
+  filter: hue-rotate(158deg) !important;
 }
 
 .loot-item-visual .shard-overlay{
