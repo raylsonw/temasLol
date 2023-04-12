@@ -107,7 +107,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 }
 
 .section.active, :host-context(lol-uikit-navigation-bar[type=nav-bar-secondary]) .section.active {
-    color: #846bff;
+    color: #6bb8ff;
     text-shadow: 0px 0px 21px #00aeff!important;
     /* opacity: 1; */
 }
@@ -161,7 +161,7 @@ lol-uikit-full-page-backdrop {
     width: 1055px;
     height: 718px;
     overflow: hidden;
-    filter: hue-rotate(50deg);
+    filter: hue-rotate(157deg);
 }
 
 .game-type-card .parties-game-type-upper-half {
@@ -169,7 +169,7 @@ lol-uikit-full-page-backdrop {
     cursor: pointer;
     width: 185px;
     height: 230px;
-    filter: hue-rotate(40deg);
+    filter: hue-rotate(157deg);
 }
 
 .parties-header-button-container .back-button-container.back-button-shown {
@@ -235,7 +235,7 @@ lol-uikit-full-page-backdrop {
 
 .play-button-container{
   background-image: none !important; /*url('http://mmmx22.ct8.pl/play-button-violet.png') !important;*/
-  background: linear-gradient(-90deg, #382B7A, #241666) !important;
+  background: linear-gradient(-90deg, #22499e, #163966) !important;
   border-radius: 50px !important;
   border: 2px solid #00b7ff!important;
   filter: drop-shadow(1px 1px 8px #00b7ff) !important;
