@@ -532,7 +532,7 @@ lol-regalia-banner-v2-element{
 }
 
 .offer-card-unrevealed-loop-video{
-  filter: hue-rotate(-301deg) !important;
+  filter: hue-rotate(-150deg) !important;
 }
 
 .loot-display-category-tab .loot-category-tab.selected::after{
@@ -661,15 +661,15 @@ lol-uikit-tooltip-root{
 }
 
 .loading-spinner{
-  filter: hue-rotate(-301deg) !important;
+  filter: hue-rotate(-150deg) !important;
 }
 
 #ember821 > div > svg > g{
-  filter: hue-rotate(-183deg) !important;
+  filter: hue-rotate(-150deg) !important;
 }
 
 .hextech-loading-animation{
-  filter: hue-rotate(-183deg) !important;
+  filter: hue-rotate(-150deg) !important;
 }
 
 .icon-ring{
@@ -702,7 +702,7 @@ lol-social-chat-input .chat-input{
 }
 
 .lol-loading-screen-progress-bar-progress{
-  filter: hue-rotate(-301deg) !important;
+  filter: hue-rotate(-150deg) !important;
 }
 
 .email{
