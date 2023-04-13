@@ -249,7 +249,7 @@ lol-uikit-full-page-backdrop {
 }
 
 .play-button-content{
-    width: calc(100% - 64px) !important;
+    width: calc(100% - 52px) !important;
 }
 
 .play-button-text{
@@ -265,7 +265,7 @@ lol-uikit-full-page-backdrop {
   visibility: visible;
   display: block;
   position: absolute;
-  right: 21px !important;
+  right: 11px !important;
 }
 
 #rcp-fe-viewport-root > .rcp-fe-viewport-overlay > .screen-root[style*="visibility: hidden;"] ~ .play-button-text:after {
@@ -821,7 +821,7 @@ lol-uikit-video-state-machine{
 }
 
 .currency-be-icon-container {
-    filter: hue-rotate(-150deg);
+    filter: hue-rotate(150deg);
 }
 
 .currency-rp {
@@ -837,7 +837,7 @@ lol-uikit-video-state-machine{
 }
 
 .play-button-content{
-  left: 10px !important;
+  left: 30px !important;
 }
 
 :host .parties-status-card.open {
