@@ -255,13 +255,13 @@ lol-uikit-full-page-backdrop {
 .play-button-text{
   color: #fff !important;
   font-family: 'Open Sans', sans-serif !important;
-  content: 'p-play? 🥺' !important;
+  content: 'play? 🥺' !important;
   visibility: hidden;
   z-index: 0 !important;
 }
 
 .play-button-text:after{
-    content:'p-play? 🥺'; 
+    content:'play? 🥺'; 
   visibility: visible;
   display: block;
   position: absolute;
