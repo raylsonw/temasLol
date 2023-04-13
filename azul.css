@@ -234,7 +234,7 @@ lol-uikit-full-page-backdrop {
 }
 
 .play-button-container{
-  background-image: none !important; /*url('http://mmmx22.ct8.pl/play-button-violet.png') !important;*/
+  background-image: none !important; /*url('https://i.imgur.com/FvL6sUt.png') !important;*/
   background: linear-gradient(-90deg, #22499e, #163966) !important;
   border-radius: 50px !important;
   border: 2px solid #00b7ff!important;
@@ -249,19 +249,19 @@ lol-uikit-full-page-backdrop {
 }
 
 .play-button-content{
-    width: calc(100% - 64px) !important;
+    width: calc(100% - 52px) !important;
 }
 
 .play-button-text{
   color: #fff !important;
   font-family: 'Open Sans', sans-serif !important;
-  content: 'play? 🥺' !important;
+  content: 'play? >.<' !important;
   visibility: hidden;
   z-index: 0 !important;
 }
 
 .play-button-text:after{
-    content:'play? 🥺'; 
+    content:'play? >.<'; 
   visibility: visible;
   display: block;
   position: absolute;
