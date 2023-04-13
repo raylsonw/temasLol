@@ -821,7 +821,7 @@ lol-uikit-video-state-machine{
 }
 
 .currency-be-icon-container {
-    filter: hue-rotate(179deg);
+    filter: hue-rotate(-150deg);
 }
 
 .currency-rp {
@@ -837,7 +837,7 @@ lol-uikit-video-state-machine{
 }
 
 .play-button-content{
-  left: 30px !important;
+  left: 10px !important;
 }
 
 :host .parties-status-card.open {
