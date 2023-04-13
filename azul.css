@@ -225,8 +225,8 @@ lol-uikit-full-page-backdrop {
 
 .lol-loading-screen-lol-icon{
   background-image: url('https://i.imgur.com/h7aDTtz.png') !important;
-  width: 400px !important;
-  height: 400px !important;
+  width: 300px !important;
+  height: 300px !important;
 }
 
 .lol-loading-screen-container.lol-loading-screen-default-state .lol-loading-screen-status-container{
@@ -261,7 +261,7 @@ lol-uikit-full-page-backdrop {
 }
 
 .play-button-text:after{
-    content:'\25B6  PLAY'; 
+    content:'\25B6  PLAY';
   visibility: visible;
   display: block;
   position: absolute;
