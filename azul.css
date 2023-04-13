@@ -793,7 +793,7 @@ lol-uikit-flat-button-secondary{
 
 
 .basic-button{
-  left: 270px !important;
+  left: 70px !important;
   height: 48px !important;
   width: 122px !important;
   top: 15px !important;
@@ -801,7 +801,7 @@ lol-uikit-flat-button-secondary{
 
 .left-nav-menu{
     position: relative !important;
-    margin-left: -100px !important;
+    margin-left: -200px !important;
 }
 
 .league-logo{
