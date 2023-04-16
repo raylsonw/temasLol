@@ -441,6 +441,7 @@ lol-regalia-banner-v2-element{
 
 .collections-sub-nav-container {
   z-index: 3;
+  filter: hue-rotate(-158deg) !important;
 }
 
 .collections-application:before{
