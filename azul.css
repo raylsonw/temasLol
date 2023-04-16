@@ -194,7 +194,7 @@ lol-uikit-full-page-backdrop {
 }
 
 .availability-icon{
-    background-color: #2382cf !important;
+    background-color: #23cf70 !important;
     border-color: #5fa4ff !important;
     filter: drop-shadow(0px 0px 4px #2baaff);
     border-radius: 10px;
@@ -205,16 +205,16 @@ lol-uikit-full-page-backdrop {
 }
 
 .availability-icon.away{
-    background-color: #115a67 !important;
+    background-color: #671411 !important;
     border-color: #204abd !important;
 }
 
 .status-message.offline{
-  color: #15467d !important;
+  color: #000000 !important;
 }
 
 .status-message-wrapper{
-  color: #15467d !important;
+  color: #585858 !important;
 }
 
 .status-message.chat{
@@ -805,7 +805,7 @@ lol-uikit-flat-button-secondary{
 
 .left-nav-menu{
     position: relative !important;
-    margin-left: -400px !important;
+    display: hidden !important;
 }
 
 .league-logo{
