@@ -439,6 +439,10 @@ lol-regalia-banner-v2-element{
   isolation: isolate;
 }
 
+.collections-sub-nav-container {
+  z-index: 3;
+}
+
 .collections-application:before{
   content: '';
   position: absolute;
