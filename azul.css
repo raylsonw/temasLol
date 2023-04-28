@@ -962,3 +962,7 @@ lol-social-roster .more-unread .more-unread-bar{
 .right-nav-vertical-rule {
   display: none !important;
 }
+
+div#chat-window-wrapper {
+  border-radius: 15px;
+}
