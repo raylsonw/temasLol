@@ -958,3 +958,7 @@ lol-social-chat-window .conversation.active::before{
 lol-social-roster .more-unread .more-unread-bar{
   background-color: #86edff !important;
 }
+
+.right-nav-vertical-rule {
+  display: none !important;
+}
