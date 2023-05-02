@@ -811,6 +811,14 @@ lol-uikit-flat-button-secondary{
   position: relative !important;
   margin-left: 10px !important;
   content: url('https://i.imgur.com/yHGTJrP.png')!important;
+  width: 20px;
+}
+
+.left-nav-menu:hover::after{
+  position: relative !important;
+  margin-left: 10px !important;
+  content: url('https://i.imgur.com/LCsKPWJ.png')!important;
+  width: 20px;
 }
 
 .league-logo{
