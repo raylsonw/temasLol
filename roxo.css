@@ -800,7 +800,7 @@ lol-uikit-flat-button-secondary{
 
 .left-nav-menu{
     position: relative !important;
-    margin-left: 20px !important;
+    margin-left: 10px !important;
 }
 
 .league-logo{
@@ -985,4 +985,8 @@ div#chat-window-wrapper {
 .collections-sub-nav-container {
   z-index: 3;
   filter: hue-rotate(-131deg) !important;
+}
+
+.ticker-button {
+  margin-left: 80px;
 }
