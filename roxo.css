@@ -793,7 +793,6 @@ lol-uikit-flat-button-secondary{
 
 
 .basic-button{
-  left: 470px !important;
   height: 48px !important;
   width: 122px !important;
   top: 15px !important;
@@ -801,7 +800,7 @@ lol-uikit-flat-button-secondary{
 
 .left-nav-menu{
     position: relative !important;
-    margin-left: -400px !important;
+    margin-left: 20px !important;
 }
 
 .league-logo{
@@ -931,7 +930,7 @@ lol-social-availability-hitbox .availability-icon.open-party{
 
 .navigation-status-ticker{
   position: absolute !important;
-  left: 430px !important;
+  left: 100px !important;
   top: 24px !important;
 }
 
