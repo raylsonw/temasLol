@@ -809,13 +809,15 @@ lol-uikit-flat-button-secondary{
 
 .left-nav-menu::after{
   position: relative !important;
-  margin-left: -10px !important;
+  margin-left: -25px !important;
+  margin-right: 20px !important;
   content: url('https://i.imgur.com/bwfW20p.png')!important;
 }
 
 .left-nav-menu:hover::after{
   position: relative !important;
-  margin-left: -10px !important;
+  margin-left: -25px !important;
+  margin-right: 20px !important;
   content: url('https://i.imgur.com/BUD8ue0.png')!important;
 }
 
